@@ -54,7 +54,6 @@ flutter/
 .pub-cache/
 .pub/
 /build/
-!/build/app/outputs/flutter-apk/app-release.apk
 pubspec.lock
 
 # Symbolication related
