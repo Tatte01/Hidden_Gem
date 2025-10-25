@@ -40,6 +40,9 @@ version
 # packages file containing multi-root paths
 .packages.generated
 
+# Flutter SDK
+flutter/
+
 # Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
