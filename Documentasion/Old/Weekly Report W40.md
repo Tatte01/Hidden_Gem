@@ -1,0 +1,8 @@
+
+Thursday:
+-
+
+Friday:
+
+
+Total Hours: 
