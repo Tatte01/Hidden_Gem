@@ -1,5 +1,5 @@
 # Hidden Gem
-
+(The App does work, ISH There is no longer a working database)
 ## 📚 Project Overview
 This is a Flutter mobile application developed as a school project during my 2nd year of university. The app serves as a social platform for sharing and discovering personal "Gems" - special moments, achievements, or memories.
 
